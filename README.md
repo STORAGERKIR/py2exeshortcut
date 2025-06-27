@@ -35,3 +35,13 @@ STORAGER is a modern, dark-themed Python application designed for storage manage
 - Required packages:
   ```bash
   pip install pyinstaller
+
+
+
+
+
+# installation
+## Clone the repository:
+
+### bash
+ ´´´´git clone https://github.com/STORAGERKIR/GUI.git ´´´´
